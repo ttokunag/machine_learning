@@ -1,5 +1,5 @@
-# Portfolios
-I stored all my indivisual Data Science/Machine Learning projects.
+# Machine Learning
+I store all my indivisual Data Science/Machine Learning projects.
 Followings are explanation on each project:
 
 ## NYC Taxi Fare Prediction
