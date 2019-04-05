@@ -1,6 +1,9 @@
 # Machine Learning
-I store all my indivisual Data Science/Machine Learning projects.
+I store all my personal and collaborative Data Science/Machine Learning projects.
 Followings are explanation on each project:
+
+## UCSD Final Project
+I stored a notebook which I develop through Math-Computer Science class at University of California, San Diego. In the project, I treated various interesting topics including image compression, principal components analysis(PCA), and so on.
 
 ## NYC Taxi Fare Prediction
 I created machine learning model with linear regression to predict taxi fee amounts in NYC. I cleaned datasets with Pandas, then I visualized the relationship between pickup/drop-off locations and an actual NYC map using Matplotlib and Basemap. Finally, I created machine learning model with scikit-learn and visualized the model.<br><br>
