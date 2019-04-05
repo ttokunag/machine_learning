@@ -1,7 +1,7 @@
 ## NYC Taxi Fare Predictions
 
 If the notebook cannot be loaded or loaded slowly, the following is the HTML version of the notebook.
-http://ttoku.com/http://ttoku.com/NYC%20Taxi%20Fare%20Predictions.html
+http://ttoku.com/nyc_taxi_fare_pred.html
 
 ### Explanation on files
 **NYC Taxi Fare Predictions.ipynb**<br>
