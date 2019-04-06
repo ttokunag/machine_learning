@@ -4,7 +4,7 @@ If the notebook cannot be loaded or loaded slowly, the following is the HTML ver
 http://ttoku.com/nyc_taxi_fare_pred.html
 
 ### Explanation on files
-**NYC Taxi Fare Predictions.ipynb**<br>
+**NYC_taxi_fare_pred.ipynb**<br>
 This is the jupyter notebook file I implemented machine learning model to make predictions
 
 **sample_submission.csv**<br>
