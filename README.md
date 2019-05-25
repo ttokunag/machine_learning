@@ -3,8 +3,8 @@
 This repository contains all of Data Science/Machine Learning related projects. These projects are derived from my programming competition projects, school projects, and my curiosity. Followings are descriptions on each project:
 
 ## NYC Taxi Fare Prediction
-I created machine learning model with linear regression to predict taxi fee amounts in NYC. I cleaned datasets with Pandas, then I visualized the relationship between pickup/drop-off locations and an actual NYC map using Matplotlib and Basemap. Finally, I created machine learning model with scikit-learn and visualized the model. NYC Taxi Fare Predictions on Kaggle Competitions [link](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)
-<img src="https://github.com/ttokunag/machine_learning/blob/master/NYU_taxi_fare_predictions/map_sample.png" width="1000">
+I created machine learning model with linear regression to predict taxi fee amounts in NYC. I cleaned datasets with Pandas, then I visualized the relationship between pickup/drop-off locations and an actual NYC map using Matplotlib and Basemap. Finally, I created machine learning model with scikit-learn and visualized the model. NYC Taxi Fare Predictions on Kaggle Competitions [link](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)<br/><br/>
+<img src="https://github.com/ttokunag/machine_learning/blob/master/NYU_taxi_fare_predictions/images/map_sample.png" width="1000">
 One of the hardest works in this project is getting rid of invalid points, which actually correspond taxi pick-up/drop-off locations, in the ocean.
 
 ## UCSD Final Project
