@@ -10,9 +10,9 @@ One of the hardest works in this project is getting rid of invalid points, which
 
 ### `UCSD Final Project`
 I stored a notebook which I developed through Math-Computer Science class at University of California San Diego. In this project, I treated various interesting topics including image compression, principal components analysis(PCA), and so on. I also use this notebooks to teach my CS tutees concepts of Math theories.<br/><br/>
-<img src="https://github.com/ttokunag/machine_learning/blob/master/UCSD_final_projects/photos/Screen%20Shot%202019-05-18%20at%201.20.40%20AM.png" width="650"><br>
+<img src="https://github.com/ttokunag/machine_learning/blob/master/UCSD_final_projects/photos/PalayGraph.png" width="650"><br>
 Paley Graph of 17 vetecies implemented in the project<br/><br/>
-<img src="https://github.com/ttokunag/machine_learning/blob/master/UCSD_final_projects/photos/Screen%20Shot%202019-05-18%20at%201.22.06%20AM.png" width="280"><img src="https://github.com/ttokunag/machine_learning/blob/master/UCSD_final_projects/photos/Screen%20Shot%202019-05-18%20at%201.22.18%20AM.png" width="280"><img src="https://github.com/ttokunag/machine_learning/blob/master/UCSD_final_projects/photos/Screen%20Shot%202019-05-18%20at%201.22.30%20AM.png" width="280">
+<img src="https://github.com/ttokunag/machine_learning/blob/master/UCSD_final_projects/photos/racoon2.png" width="280"><img src="https://github.com/ttokunag/machine_learning/blob/master/UCSD_final_projects/photos/racoon2.png" width="280"><img src="https://github.com/ttokunag/machine_learning/blob/master/UCSD_final_projects/photos/racoon3.png" width="280">
 Compressed racoon photos with singular value decomposition
 
 ### `Recent Graduates`
