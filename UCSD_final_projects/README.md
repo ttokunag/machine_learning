@@ -14,7 +14,7 @@ The followings are materials this project covers:
 - Machine Learning (SVM + PCA)
 
 <br/>
-<img src="https://github.com/ttokunag/machine_learning/blob/master/UCSD_final_projects/photos/Screen%20Shot%202019-05-18%20at%201.20.40%20AM.png" width="850">
+<img src="https://github.com/ttokunag/machine_learning/blob/master/UCSD_final_projects/photos/PalayGraph.png" width="850">
 Paley Graph of 17 vetecies implemented in the project<br/><br/>
-<img src="https://github.com/ttokunag/machine_learning/blob/master/UCSD_final_projects/photos/Screen%20Shot%202019-05-18%20at%201.22.06%20AM.png" width="280"><img src="https://github.com/ttokunag/machine_learning/blob/master/UCSD_final_projects/photos/Screen%20Shot%202019-05-18%20at%201.22.18%20AM.png" width="280"><img src="https://github.com/ttokunag/machine_learning/blob/master/UCSD_final_projects/photos/Screen%20Shot%202019-05-18%20at%201.22.30%20AM.png" width="280">
+<img src="https://github.com/ttokunag/machine_learning/blob/master/UCSD_final_projects/photos/racoon1.png" width="280"><img src="https://github.com/ttokunag/machine_learning/blob/master/UCSD_final_projects/photos/racoon2.png" width="280"><img src="https://github.com/ttokunag/machine_learning/blob/master/UCSD_final_projects/photos/racoon3.png" width="280">
 Compressed racoon photos with singular value decomposition
